@@ -9,6 +9,8 @@ package Polymorphism;
  *
  * @author Muhammad Shahmeer
  */
+
+//Abstraction is the implementation at the very low level
 public abstract class Shape {
     
     private String color;
